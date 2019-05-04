@@ -34,7 +34,8 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-	I would say that semantic HTML is the meaning that is derived from the HTML tags that you use to create your page.
+	I would say that semantic HTML is the meaning that is derived from the HTML tags that you use to create your page. It is a way to easily break down a page, which can help for
+	accesibility purposes. The semantic meaning also gives the person reading your HTML a general idea of the layout of your page just from looking at your source.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
