@@ -93,6 +93,15 @@ nav a{
     color: black;
 }
 
+#aboutSection div{
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+}
+
+.border-bottom{
+    border-bottom: 1px dashed black;
+}
+
 .Jumbo-img{
     margin-top: 40px;
     margin-bottom: 20px;
@@ -137,6 +146,10 @@ nav a{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.middle-content .boxes div{
+    width: 400px;
 }
 
 .bottom-content {
