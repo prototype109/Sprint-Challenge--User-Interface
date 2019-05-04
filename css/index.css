@@ -71,6 +71,11 @@ p {
     margin: 0 auto;
 }
 
+.about-page{
+    display: flex;
+    flex-direction: column;
+}
+
 header{
     display: flex;
     justify-content: space-between;
