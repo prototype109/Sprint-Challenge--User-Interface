@@ -126,9 +126,18 @@ nav a{
     border-bottom: 1px dashed black;
 }
 
+.middle-content .about-h2{
+    margin-top: 20px;
+    padding: 0;
+}
+
 .middle-content h2 {
     padding: 0 2%;
     margin-bottom: 0;
+}
+
+.middle-content p{
+    padding: 20px 0;
 }
 
 .middle-content .boxes {
@@ -149,7 +158,19 @@ nav a{
 }
 
 .middle-content .boxes div{
-    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 370px;
+    margin-bottom: 30px;
+}
+
+button{
+    margin-bottom: 20px;
+}
+
+#removeBorderBottom{
+    border: none;
 }
 
 .bottom-content {
