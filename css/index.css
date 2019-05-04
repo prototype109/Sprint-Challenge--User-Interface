@@ -168,6 +168,46 @@ nav a{
     margin-bottom: 30px;
 }
 
+#teal{
+    background: teal;
+}
+
+#gold{
+    background: gold;
+}
+
+#cadetblue{
+    background: cadetblue;
+}
+
+#coral{
+    background: coral;
+}
+
+#crimson{
+    background: crimson;
+}
+
+#forestgreen{
+    background: forestgreen;
+}
+
+#darkorchid{
+    background: darkorchid;
+}
+
+#hotpink{
+    background: hotpink;
+}
+
+#indigo{
+    background: indigo;
+}
+
+#dodgerblue{
+    background: dodgerblue;
+}
+
 button{
     margin-bottom: 20px;
     padding: 10px 20px;
@@ -178,6 +218,10 @@ button{
 
 #removeBorderBottom{
     border: none;
+}
+
+#biggerMargin{
+    margin-bottom: 50px;
 }
 
 .bottom-content {
