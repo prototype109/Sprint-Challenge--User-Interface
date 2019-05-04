@@ -95,7 +95,6 @@ nav a{
 
 #aboutSection div{
     padding-bottom: 20px;
-    margin-bottom: 30px;
 }
 
 .border-bottom{
@@ -113,6 +112,10 @@ nav a{
     justify-content: space-evenly;
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
+}
+
+.top-bottom-text-section{
+    margin: 0 2% 20px;
 }
 
 .top-content .text-container {
@@ -167,6 +170,10 @@ nav a{
 
 button{
     margin-bottom: 20px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 1px solid black;
+    background: white;
 }
 
 #removeBorderBottom{
