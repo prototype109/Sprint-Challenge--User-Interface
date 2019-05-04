@@ -83,6 +83,16 @@ nav{
     justify-content: space-between;
 }
 
+nav a{
+    text-decoration: none;
+    color: black;
+}
+
+.Jumbo-img{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
